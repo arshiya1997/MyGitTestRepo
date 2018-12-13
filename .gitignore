@@ -1,0 +1,6 @@
+*.tmp
+*.war
+*.jar
+*.class
+/temp/
+/.metadata/
